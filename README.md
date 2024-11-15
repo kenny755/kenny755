@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kenny755
-- 👀 I’m interested in ...Data Analytics
+- 👀 I’m interested in ...Data Analytics,business & finance Analyst
 - 🌱 I’m currently learning ...AI,Big Data, LLM & Machine Language
 - 💞️ I’m looking to collaborate on ...Data Analytics projects
 - 📫 How to reach me ...Kennyolajide69@gmailcom
